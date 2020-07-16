@@ -2,7 +2,7 @@
 
 You can hack fb by using this tool.....
 
-termux installation:
+termux installation:                       
 
 $apt update && apt upgrade
 
@@ -26,7 +26,7 @@ $cd hack-fb
 
 $ls
 
-$python2 rabby
+$python2 r
 
 #USER ID:rabby
 
